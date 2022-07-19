@@ -3,6 +3,8 @@
 # Laravel Question Answer Wesbsite
 ### Realtime notification using websockets
 
+![alt text](https://github.com/YaserEshteiwi92/laravel-qa/blob/master/git_images/laravel_main_screen.png)
+
 ## Installation
 
 ```sh
