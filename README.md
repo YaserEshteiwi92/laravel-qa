@@ -8,14 +8,14 @@
 ## Installation
 
 ```sh
-Run git clone https://github.com/YaserEshteiwi92/laravel-qa.git
-Run composer install
-Run cp .env.example .env or copy .env.example .env
-Run php artisan key:generate
-Run php artisan migrate
-Run php artisan db:seed (if you need default data to test website)
-Run npm install
-Run php artisan serve
-Run php artisan websocket:serve
+git clone https://github.com/YaserEshteiwi92/laravel-qa.git
+composer install
+cp .env.example .env or copy .env.example .env
+php artisan key:generate
+php artisan migrate
+php artisan db:seed (if you need default data to test website)
+npm install
+php artisan serve
+php artisan websocket:serve
 Go to link localhost:8000 OR 127.0.0.1:8000
 ```
